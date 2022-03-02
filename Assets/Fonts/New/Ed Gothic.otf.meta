@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c535caa441a6ccb4bb9fbe27fb473a39
+timeCreated: 1523331597
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ed
+  fontNames:
+  - Ed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

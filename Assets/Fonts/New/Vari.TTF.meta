@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6ab3353df4ac50646adafd84a5d4c3dc
+timeCreated: 1523518189
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VNI-Vari
+  fontNames:
+  - VNI-Vari
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 271d177e997e18041bcb4228bb7efe9e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

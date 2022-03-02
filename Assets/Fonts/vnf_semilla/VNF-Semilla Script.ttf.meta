@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4753376b3935c45d0bf57aeea4a899b6
+timeCreated: 1500218933
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VNF-Semilla
+  fontNames:
+  - VNF-Semilla
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 61bd22c4572b87a4295069e7a1b52832
+timeCreated: 1489975986
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FS Harabara
+  fontNames:
+  - FS Harabara
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4eea401592e4b344ea0a0a0e42176305
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Poetsen One
+  fontNames:
+  - Poetsen One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: adf133b956270dc41ac69838e827d600, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

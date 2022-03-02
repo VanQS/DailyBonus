@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fb5cec55c90abfe47a11af82b7e46b0d
+timeCreated: 1521768785
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: UTM Facebook
+  fontNames:
+  - UTM Facebook
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 81f417a4417db1946b8b27558108e09b
+timeCreated: 1505295491
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PoetsenOne
+  fontNames:
+  - PoetsenOne
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
