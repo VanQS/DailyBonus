@@ -450,6 +450,7 @@ GameObject:
   - component: {fileID: 283419929}
   - component: {fileID: 283419928}
   - component: {fileID: 283419927}
+  - component: {fileID: 283419930}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -489,7 +490,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EffectColor: {r: 0.056415025, g: 0.4056604, b: 0.02104842, a: 0.78039217}
-  m_EffectDistance: {x: 1, y: -1}
+  m_EffectDistance: {x: 0, y: 0}
   m_UseGraphicAlpha: 1
 --- !u!114 &283419928
 MonoBehaviour:
@@ -533,6 +534,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 283419925}
   m_CullTransparentMesh: 1
+--- !u!114 &283419930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 283419925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 0.054901965, g: 0.4039216, b: 0.019607844, a: 0.5}
+  m_EffectDistance: {x: 1, y: -3}
+  m_UseGraphicAlpha: 1
 --- !u!1 &373860418
 GameObject:
   m_ObjectHideFlags: 0
@@ -1110,6 +1126,7 @@ GameObject:
   - component: {fileID: 541856852}
   - component: {fileID: 541856851}
   - component: {fileID: 541856850}
+  - component: {fileID: 541856853}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -1148,8 +1165,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
-  m_EffectDistance: {x: 1, y: -1}
+  m_EffectColor: {r: 1, g: 0.59607846, b: 0.18431373, a: 0.5}
+  m_EffectDistance: {x: 0, y: 0}
   m_UseGraphicAlpha: 1
 --- !u!114 &541856851
 MonoBehaviour:
@@ -1193,6 +1210,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 541856848}
   m_CullTransparentMesh: 1
+--- !u!114 &541856853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 541856848}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_EffectColor: {r: 1, g: 0.5568628, b: 0.23137257, a: 0.5}
+  m_EffectDistance: {x: 1.15, y: -3}
+  m_UseGraphicAlpha: 1
 --- !u!1 &593459280
 GameObject:
   m_ObjectHideFlags: 0
@@ -1543,7 +1575,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &737724376
 RectTransform:
   m_ObjectHideFlags: 0

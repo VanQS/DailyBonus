@@ -102,7 +102,7 @@ public class DailyBonusItem : MonoBehaviour
 
     public void OnClaim()
     {
-
+        clams = true;
         imgBox.gameObject.transform.localPosition = new Vector3(imgBox.gameObject.transform.localPosition.x, imgBox.gameObject.transform.localPosition.y +11.2f, 0);
         imgTick.gameObject.SetActive(false);
         txtDay.GetComponent<Outline>().effectColor = Color.green;

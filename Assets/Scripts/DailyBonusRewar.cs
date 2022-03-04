@@ -51,6 +51,7 @@ public class DailyBonusRewar : MonoBehaviour
             for (int i = 0; i < ListDataDays.Count; i++)
             {
                 ListSetData[i].SetData(this, ListDataDays[i], currday == i, currday > i, currday < i );
+               
             }
         }
 

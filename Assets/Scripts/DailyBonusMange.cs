@@ -35,7 +35,7 @@ public class DailyBonusMange : MonoBehaviour
         PlayerPrefs.SetString(KEY_TIME_DAILY, DateTime.Now.Date.ToString());
         int index = PlayerPrefs.GetInt(KEY_INDEX_DAILY,0) ;
         index ++;
-        if(index >=7 )
+        if(index >6 )
         {
             index = 0;
         }
